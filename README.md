@@ -26,5 +26,3 @@ This folder shows a couple of Python scripts I use for production work at Census
 
 ## sas_code 
 I have written tens of thousands of lines of SAS code during my time at Census. It would be difficult to present it all and much of it would be proprietary due to its internal nature. These code samples demonstrate competence with SAS, in particular the use of the \%macro language, arrays, and PROC SQL.
-
-The files with some brief 
